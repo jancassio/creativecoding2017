@@ -45,6 +45,8 @@ Algumas referências citadas na apresentação e outras adicionais estão logo a
 No [Kadenze](https://www.kadenze.com/), há vários cursos sobre o assunto, recomendo especialmente o [Nature of Code](https://www.kadenze.com/courses/the-nature-of-code/info), que é baseado em um livro de mesmo nome. Faz uma abordagem sobre como representar comportamentos da natureza com o computador utilizando Processing (mas também pode ser aplicado com outras libs).
 
 ### Siga
+O [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) tem praticamente tudo sobre a área!
+
 * [Ricardo Cabello](https://twitter.com/mrdoob)
 * [Quasimondo](https://twitter.com/quasimondo)
 * [Model View Culture](https://twitter.com/ModelViewMedia)
